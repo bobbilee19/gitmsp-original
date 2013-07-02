@@ -1,0 +1,7 @@
+#jpic_widget #widget_jpic_div { }
+
+#jpic_widget #widget_jpic_div a img { width: 100%; }
+
+#jpic_widget #jpicCredits {	text-align: center; font-size: 7pt; }
+
+#jpic_widget .hide { display:none; }

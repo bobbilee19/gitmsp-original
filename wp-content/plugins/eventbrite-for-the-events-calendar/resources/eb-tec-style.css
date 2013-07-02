@@ -1,0 +1,72 @@
+.eventsWarning {
+	display: block;
+	margin: 30px 0;
+}
+.tec-event-configure-warning {
+	background-color: #ffffe0;
+	padding: 10px 20px;
+	margin: 0 6px;
+	border: 1px solid #e6db55;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px; /* future proofing */
+}
+span.tec-radio-option {
+	white-space: nowrap;
+	margin-right: 15px;
+}
+.eventForm #eb-tec-import-event {margin: 0 0 10px;}
+
+.eventForm #eb-tec-import-event label {}
+
+.eventForm #eb-tec-import-event input {}
+
+.eventForm #eb-tec-existing-event-id-input {
+	display: none;
+	margin: 0 0 25px;
+}
+.eventForm #eb-tec-existing-event-id-input label {}
+
+.eventForm #eb-tec-existing-event-id-input input {}
+
+.eventForm #eb-tec-payment-options {}
+
+.eventForm #eb-tec-payment-options td {vertical-align: top;}
+
+.eventForm #eb-tec-payment-options td hr {
+	border-color: #DFDFDF;
+	border-style: none none solid;
+	border-width: 0 0 1px;
+	margin: 0 0 16px;
+	width: 97%;
+}
+.eventForm #eb-tec-payment-options td div {
+	display: none;
+	margin: 0 0 16px;
+}
+
+.eventForm #eb-tec-payment-options td #eb-tec-payment-options-checkboxes {display:block;}
+
+.eventForm #eb-tec-payment-options td div label {
+	cursor: default;
+	margin: 0 8px 0 0;
+}
+.eventForm #eb-tec-payment-options td div label span {
+	color: #F26822;
+	font-size: 8px;
+	line-height: 16px;
+	margin: 0 0 0 4px;
+	vertical-align: top;
+}
+.eventForm #eb-tec-payment-options td div input {margin: 0 4px 4px 0;}
+
+.eventForm #eb-tec-payment-options td .eb-tec-payment-instructions label {
+	display: block;
+	margin: 0 0 3px;
+}
+.eventForm .description_input, .eventForm #eb-tec-payment-options td .eb-tec-payment-instructions textarea {
+	border: 1px solid #DFDFDF;
+	font-size: 11px;
+	height: 45px;
+	width: 95%;
+}
